@@ -59,7 +59,7 @@
                     </span>
                 </div>
                 <div class="media-body">
-                    <p>New Delhi, Delhi</p>
+                    <p>Philippines</p>
                 </div>
             </li>
 
